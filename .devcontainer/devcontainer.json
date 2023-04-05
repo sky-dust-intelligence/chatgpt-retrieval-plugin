@@ -1,0 +1,19 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  "ghcr.io/flexwie/devcontainer-features/op:1": {},
+  "ghcr.io/devcontainers/features/anaconda:1:latest" {},
+  "ghcr.io/akhildevelops/devcontainer-features/apt:0": {}, 
+  "ghcr.io/devcontainers/features/azure-cli:1": {}, 
+  "ghcr.io/devcontainers-contrib/features/bash-command:1": {},  
+  "ghcr.io/devcontainers/features/python:1": {},
+  "ghcr.io/devcontainers/features/pyenv": {},
+  "ghcr.io/jlaundry/devcontainer-features/azure-functions-core-tools:1": {},
+  "ghcr.io/devcontainers-contrib/features/poetry:2": {},
+  "ghcr.io/stuartleeks/dev-container-features/azure-cli-persistence:0": {},
+  "ghcr.io/eliises/devcontainer-features/devcontainers-cli:1": {},
+  "ghcr.io/devcontainers/features/node:1": {},
+  "ghcr.io/devcontainers/features/sqlite:1": {}
+  }
+}
+    
